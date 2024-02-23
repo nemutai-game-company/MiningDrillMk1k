@@ -1,0 +1,11 @@
+{
+    "name": "OmegaDrill",
+    "version": "0.0.1",
+    "title": "Mining Drill Mark 1k",
+    "author": "NEMUNEMU",
+    "contact": "",
+    "homepage": "",
+    "description": "バニラマイニングドリルの強化版\n大きさ: バニラ 3x3 -> Mark1k 30x30\n搬出口: バニラ1個 -> Mark1k 8個\n搬出速度: 仕様がまだわからないけどできるだけ速く",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1.87"]
+  }
